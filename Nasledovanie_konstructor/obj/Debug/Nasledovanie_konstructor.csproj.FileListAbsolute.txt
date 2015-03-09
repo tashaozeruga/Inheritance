@@ -1,0 +1,6 @@
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Nasledovanie_konstructor\Nasledovanie_konstructor\bin\Debug\Nasledovanie_konstructor.exe.config
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Nasledovanie_konstructor\Nasledovanie_konstructor\bin\Debug\Nasledovanie_konstructor.exe
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Nasledovanie_konstructor\Nasledovanie_konstructor\bin\Debug\Nasledovanie_konstructor.pdb
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Nasledovanie_konstructor\Nasledovanie_konstructor\obj\Debug\Nasledovanie_konstructor.exe
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Nasledovanie_konstructor\Nasledovanie_konstructor\obj\Debug\Nasledovanie_konstructor.pdb
+c:\users\ozerugafamily\documents\visual studio 2012\Projects\Nasledovanie_konstructor\Nasledovanie_konstructor\obj\Debug\Nasledovanie_konstructor.csprojResolveAssemblyReference.cache
